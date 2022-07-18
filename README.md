@@ -3,7 +3,7 @@
 Currently pursuing my MSc in computer sciences.</h3>
 
 <p align="center">
-  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a>
+  <a href="#"><img src="./images/intro.jpeg" style="border-radius: 5px;" width="500px" title="cover"></a>
 </p>
 
 - 🌐 My biggest passion is to turn thoughts and ideas to reality.
