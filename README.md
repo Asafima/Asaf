@@ -27,6 +27,10 @@ Currently pursuing my MSc in computer sciences.</h3>
   <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='html'/></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src ="./images/css-3.svg" alt="CSS logo" width="8%" title='html'/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='html'/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src ="./images/docker.svg" alt="Docker logo" width="8%" title='html'/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src ="./images/kubernetes.svg" alt="Kubernetes logo" width="8%" title='html'/></a>
 </div>
                                                                   
                                                                  
