@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asaf Madari</h1>
 <h3 align="center";">A software Engineer from Israel.</br>
-Currently pursuing my MSc in computer sciences.</h3>
+Currently working as a backend engineer.</h3>
 
 <p align="center">
   <a href="#"><img src="./images/intro.jpeg" style="border-radius: 5px;" width="500px" title="cover"></a>
